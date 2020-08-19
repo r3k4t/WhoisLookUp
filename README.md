@@ -29,7 +29,7 @@ sudo python whoislookup.py
 
 ### Screenshots ###
 
-![Screenshot at 2020-08-18 20-44-12](https://user-images.githubusercontent.com/69615463/90577579-fa817980-e1de-11ea-8ea5-5896121095b8.png)
+![Screenshot at 2020-08-19 13-57-11](https://user-images.githubusercontent.com/69615463/90611666-a7cab080-e224-11ea-97d1-160f7b4f26d3.png)
 <br>
 Next
 ![Screenshot at 2020-08-19 05-28-28](https://user-images.githubusercontent.com/69615463/90577750-492f1380-e1df-11ea-9077-2ceb7e7a5b7b.png)
