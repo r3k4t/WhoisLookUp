@@ -8,6 +8,6 @@ print "Github : https://github.com/r3k4t"
 print 
 print "Information : This python program can help to get ip and ipv6 and website information."
 print
-ip = raw_input("Enter any website IP/Url : ")
+ip = raw_input("Enter any website IP or Domain Name: ")
 os.system("whois {} " .format(ip))
 
