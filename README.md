@@ -32,5 +32,6 @@ sudo python whoislookup.py
 ![Screenshot at 2020-08-19 13-57-11](https://user-images.githubusercontent.com/69615463/90611666-a7cab080-e224-11ea-97d1-160f7b4f26d3.png)
 <br>
 Next
-![Screenshot at 2020-08-19 05-28-28](https://user-images.githubusercontent.com/69615463/90577750-492f1380-e1df-11ea-9077-2ceb7e7a5b7b.png)
+![Screenshot at 2020-08-19 13-58-23](https://user-images.githubusercontent.com/69615463/90611809-d6e12200-e224-11ea-845a-79ee5e345edb.png)
+
 
