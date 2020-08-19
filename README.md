@@ -13,7 +13,7 @@ This  program is build on python.This python project can help to get any  ip and
 ### Installation ###
 
 <ul>
-<li>Python<li>
+<li>Python</li>
 <li>Figlet</li>
 </ul>
 
