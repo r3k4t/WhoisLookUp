@@ -14,6 +14,7 @@ This  program is build on python.This python project can help to get any  ip and
 
 <ul>
 <li>Python</li>
+<li>Whois</li>
 <li>Figlet</li>
 </ul>
 
