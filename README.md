@@ -32,7 +32,7 @@ sudo python whoislookup.py
 ![Screenshot at 2020-08-19 13-57-11](https://user-images.githubusercontent.com/69615463/90611666-a7cab080-e224-11ea-97d1-160f7b4f26d3.png)
 <br>
 Next
-<br>
+
 ![Screenshot at 2020-08-19 13-58-23](https://user-images.githubusercontent.com/69615463/90611809-d6e12200-e224-11ea-845a-79ee5e345edb.png)
 
 
